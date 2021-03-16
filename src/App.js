@@ -14,8 +14,6 @@ class App extends Component {
       searchField: ''
     }
 
-    // this.handleChange = this.handleChange.bind(this);
-
   }
 
   handleChange = (e) => {
